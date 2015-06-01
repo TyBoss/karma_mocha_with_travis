@@ -1,0 +1,19 @@
+{
+  "name": "test_with_travis",
+  "version": "1.0.0",
+  "description": "Test with travis with mocha setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbrim/karma_mocha_with_travis.git"
+  },
+  "author": "TyBoss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbrim/karma_mocha_with_travis/issues"
+  },
+  "homepage": "https://github.com/tbrim/karma_mocha_with_travis#readme"
+}
